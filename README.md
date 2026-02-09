@@ -1,3 +1,5 @@
+Divij bhandari 
+25070123160
 Aim:
 
 Study of sets in python.
